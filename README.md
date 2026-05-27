@@ -153,7 +153,7 @@ Para instalar um arquivo RPM como o `zenmap-7.94-1.noarch.rpm` em um sistema `Li
 4. Após a instalação ser concluída, você pode iniciar o `Zenmap` a partir do terminal digitando:
 
     ```bash
-    zenmap
+    sudo zenmap
     ```
 
 O `Zenmap` também pode ser encontrado em seu menu de aplicativos, dependendo do ambiente de desktop que você está usando.
