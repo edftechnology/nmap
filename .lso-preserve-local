@@ -1,0 +1,31 @@
+# Managed by prepare_repo.sh
+# profile: app
+AGENTS.md
+GEMINI.md
+CHANGES.txt
+CITATION.cff
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+DEPENDENCIES.md
+DOI.txt
+LICENSE.txt
+MANIFEST.in
+README.ipynb
+README.md
+requirements.txt
+.gitattributes
+.gitignore
+.github/
+.vscode/
+.gitmodules
+.githooks/
+.codex/
+subs/
+data/
+docs/
+inputs/
+outputs/
+pickles/
+scripts/
+tests/
+venvs/
